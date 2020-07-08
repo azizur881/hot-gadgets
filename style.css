@@ -1,0 +1,87 @@
+
+.bg-light {
+    background-color: white!important}
+  
+    
+    .carousel-item{
+        padding:20px 10px;}
+    
+    .buy-now{
+    background-image: linear-gradient(to bottom, #000000 0%, #615a5a 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;}
+    .banner1{
+        position: absolute;
+        width:100px;
+        height:100px;
+        top:500px;
+    }
+    .banner2{
+        height:400px;
+    }
+    .nav-item{
+        position: relative;;
+        left:200px;
+        color:lightgray !important;
+        font-weight: 400;
+    }
+    .back{
+        position: absolute;
+        top:500px;
+        width:100px;
+        height:120px;
+    }
+    .col-md-7{
+        background-image: url(images/background/bg-1.png);
+        background-repeat: no-repeat;
+        background-size: 80px;
+        position: relative;
+        
+    }
+    .heading1 h5 a{ 
+        position: relative;
+        top:20px;
+        text-decoration:none;
+        color:orange;
+    }
+    section{
+        margin-bottom: 50px;
+    }
+    .card-body{
+        text-align:center;
+
+    }
+    .card-footer{
+        display: none;
+    }
+    .card{
+        border:none;
+        box-shadow: 5px 5px 10px grey; 
+    }
+        
+   
+    .cat{
+        width:100px;
+        margin:auto;
+        border-bottom: 5px solid;
+        border-image: linear-gradient(orange , rgb(255, 38, 0));
+        border-image-slice:1;
+        border-radius: 20px;
+        margin-bottom: 40px;
+        background-size: cover;
+    }
+    .img{
+        width:100%;
+    }
+    .two{
+        display:block;
+    }
+    .style{
+        padding:40px;
+        box-shadow: 1px 1px 40px rgb(218, 213, 213);
+        margin-top:20px;
+        border-radius: 10px;
+    }
